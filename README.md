@@ -1,5 +1,5 @@
 
-![logo](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![logo](https://github.com/jaberamin9/jaberamin9/blob/main/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Jaber Amin</h1>
 <h3 align="center">A passionate native android developer</h3>
