@@ -1,5 +1,5 @@
-
 ![logo](https://github.com/jaberamin9/jaberamin9/blob/main/banner.gif)
+
 
 <h1 align="center">Hi 👋, I'm Jaber Amin</h1>
 <h3 align="center">A passionate native android developer</h3>
