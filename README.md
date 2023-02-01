@@ -1,4 +1,4 @@
-![logo](https://github.com/jaberamin9/jaberamin9/blob/main/banner.gif)
+![logo](https://github.com/jaberamin9/jaberamin9/blob/main/banner1.gif)
 
 
 <h1 align="center">Hi 👋, I'm Jaber Amin</h1>
