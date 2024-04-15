@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jaber Amin</h1>
-<h3 align="center">A passionate web and native android developer</br>(xml + java)</h3>
+<h3 align="center">A passionate web and native android developer</h3>
 
 
 [comment]: <> (<img align="right" alt="Coding" width="400" src="https://github.com/jaberamin9/jaberamin9/blob/main/developer.gif">)
