@@ -2,15 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Jaber Amin</h1>
-<h3 align="center">A passionate native android developer</br>(xml + java)</h3>
+<h3 align="center">A passionate web and native android developer</br>(xml + java)</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/jaberamin9/jaberamin9/blob/main/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaberamin9&label=Profile%20views&color=0e75b6&style=flat" alt="jaberamin9" /> </p>
 
-- 🌱 I’m currently learning **MEARN**
-
-- 💬 Ask me about **Android**
+- 💬 Ask me about **MEARN/Android**
 
 - 📫 How to reach me **jaberamin9@gmail.com**
 
