@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 Currently working on: Resume builder web app.<br>🤝 Looking to collaborate on: Web/mobile projects (Next.js, NestJS, Flutter, native Android).<br>🌱 Learning: Flutter.<br>💬 Ask me about: Frontend, backend development, web scraping, mobile apps.<br>⚡ Fun fact: My Fiverr Auto Reloader project has over 24,000 downloads, and I created a student dashboard that has more than 6,000 downloads!
+🎯 Currently working on: Resume builder web app.<br>🤝 Looking to collaborate on: Web/mobile projects (Next.js, NestJS, Flutter, native Android).<br>🌱 Learning: Flutter.<br>💬 Ask me about: Frontend, backend development, web scraping, mobile apps.<br>⚡ Achievement: My Fiverr Auto Reloader project has over 24,000 downloads, and I created a student dashboard that has more than 6,000 downloads!
 
 
 ## 🌐 Socials:
